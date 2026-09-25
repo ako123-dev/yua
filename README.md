@@ -53,16 +53,6 @@ It also creates a path for future government insights into the informal economy 
 - Unbanked and underbanked people
 - Families and local communities
 
-## Team
-
-- Hanako Nambari
-- Ako Vagi
-- Mosua E. Mosua
-- Abigail Tupma
-- Jordan Hembesausa
-- Darusila
-- Johannes Kutan
-
 ## Summary
 
 Yua is a practical mobile money solution for PNG that brings together interoperability, accessibility, QR payments, and business recordkeeping in one platform. It is designed to help build a more inclusive and cashless future for Papua New Guinea.
