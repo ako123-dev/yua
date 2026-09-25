@@ -211,17 +211,6 @@ The PNG market already has examples of mobile wallets and bank-led payment apps,
 
 ---
 
-## Team
-- Hanako Nambari
-- Ako Vagi
-- Mosua E. Mosua
-- Abigail Tupma
-- Jordan Hembesausa
-- Darusila
-- Johannes Kutan
-
----
-
 ## Summary
 
 Yua is a practical, inclusive, and scalable mobile money solution for Papua New Guinea. It brings together the convenience of digital payments, the inclusivity of mobile-first access, and the economic potential of a unified interoperability layer.
