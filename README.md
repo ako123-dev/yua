@@ -1,41 +1,60 @@
+# Yua
+## Interoperable mobile money for Papua New Guinea
 
-# React + Vite
+Yua is a mobile wallet and payment platform built for Papua New Guinea. It connects users across multiple banks and financial providers in one interoperable system, making digital payments easier for people who may not have a formal bank account.
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+The app is designed to work like Alipay and WeChat Pay, using QR codes for fast, everyday transactions. It supports a more cashless society in PNG while helping informal vendors and micro-businesses track sales, manage records, and gain better business insights.
 
-Currently, two official plugins are available:
+## Problem
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+PNG still depends heavily on cash, especially in informal markets. Many people, especially market vendors and small businesses, do not use formal banking services and struggle with:
 
-## React Compiler
+- limited access to digital payments,
+- fragmented wallet systems tied to one bank,
+- poor recordkeeping for informal businesses,
+- difficulty managing cash-based transactions.
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+Existing solutions like Wantok Wallet and MiWallet are useful, but they are still limited to specific bank ecosystems. PNG needs a more inclusive and interoperable payment system.
 
-Note: This will impact Vite dev & build performances.
-You can also try [the experimental native React Compiler support in plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md#rust-react-compiler) by using `compiler: true` in the plugin options instead of using the Babel plugin.
+## Solution
 
-## Expanding the Oxlint configuration
+Yua enables users to:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- create a mobile wallet without a formal bank account,
+- send and receive money securely,
+- scan QR codes to pay merchants,
+- make digital payments across multiple banks and providers,
+- track transaction history and daily business activity.
 
-# Yua - Mobile-money, e-wallet solution for Papua New Guinea
+## Why it matters
 
-# About
+Yua is built for everyday PNG life:
 
-## Team
-- Hanako Nambari
-- Ako Vagi
-- Mosua E. Mosua
-- Abigail Tupma
-- Jordan Hembesausa
-- Darusila
-- Johannes Kutan
+- buying betelnut, cigarettes, and fresh produce,
+- paying for transport and local services,
+- supporting community transfers,
+- helping informal sellers keep records and understand sales trends.
 
-# Problem
+It also creates a path for future government insights into the informal economy while supporting financial inclusion.
 
-# Features
+## Key features
 
-# Future updates
+- QR-code payments
+- Wallet without formal bank account
+- Multi-bank interoperability
+- Merchant payments and sales tracking
+- Recordkeeping and business insights
+- Secure transaction history and balance tracking
 
-3861f15551ad04e40e1d73454e0b297a77a388fe
+## Target users
+
+- Everyday consumers
+- Informal vendors and SMEs
+- Unbanked and underbanked people
+- Families and local communities
+
+## Summary
+
+Yua is a practical mobile money solution for PNG that brings together interoperability, accessibility, QR payments, and business recordkeeping in one platform. It is designed to help build a more inclusive and cashless future for Papua New Guinea.
+
+
